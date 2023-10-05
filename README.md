@@ -27,7 +27,7 @@ Following Categories of pen test tools are identified for information gathering:
 ## OUTPUT:
 ![267845057-93be2e15-6d5f-4a08-b388-603929d20367](https://github.com/sanjeevraj0987/InformationGathering/assets/120698946/3e33dc24-829b-4a30-9d00-12a3c8785026)
 
-### Finding IP adress:
+Finding IP adress:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
 ```
 ping saveetha.ac.in
@@ -36,7 +36,7 @@ ping saveetha.ac.in
 ## OUTPUT:
 ![267846800-fcfa6599-0910-44f9-9f80-8675ae08893c](https://github.com/sanjeevraj0987/InformationGathering/assets/120698946/86da5172-01c8-4fa1-b574-a29f909f9a77)
 
-###History of the website:
+History of the website:
 ## OUTPUT:
 https://web.archive.org/
 ![267847359-db356479-b506-4b5c-97e2-8781af87c5de](https://github.com/sanjeevraj0987/InformationGathering/assets/120698946/c9d10330-af20-47b3-898b-8d9c421b7ef8)
