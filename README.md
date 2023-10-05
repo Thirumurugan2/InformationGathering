@@ -20,7 +20,7 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
-###Pen Test Tools Categories:
+### Pen Test Tools Categories:
 
 Following Categories of pen test tools are identified for information gathering: Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network. http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 
@@ -40,7 +40,7 @@ History of the website:
 ## OUTPUT:
 https://web.archive.org/
 ![267847359-db356479-b506-4b5c-97e2-8781af87c5de](https://github.com/sanjeevraj0987/InformationGathering/assets/120698946/c9d10330-af20-47b3-898b-8d9c421b7ef8)
-##Web server Fingerprint:
+## Web server Fingerprint:
 Netcat:
 ```
 nc 172.17.52.118 80
